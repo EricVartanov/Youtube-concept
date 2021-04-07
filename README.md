@@ -2,7 +2,7 @@
 Проект выполнил: Вартанов Эрик 
 
 ##  Используемые технологии 
--HTML
--CSS
--Normalize.css
--SVG scriptes
+- HTML
+- CSS
+- Normalize.css
+- SVG scriptes
